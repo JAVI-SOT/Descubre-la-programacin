@@ -1,0 +1,7 @@
+void main () {
+  noStroke() ;
+  background (213, 143, 69, );
+  ellipse (160, 160,140, 140);
+  ellipse (100, 100 , 70, 70);
+  ellipse (215, 100, 70, 70) ;
+}
